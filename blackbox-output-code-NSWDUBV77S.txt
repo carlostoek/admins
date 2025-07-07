@@ -1,0 +1,33 @@
+# Bot de Gestión de Suscripciones y Canales de Telegram
+
+Un bot de Telegram completo para gestionar suscripciones y administrar canales gratuitos y VIP.
+
+## Características
+
+### Gestión de Canales
+- Canal Gratuito con acceso configurable
+- Canal VIP con suscripciones pagadas
+- Verificación automática de membresía
+
+### Gestión de Suscripciones
+- Creación de planes de suscripción con diferentes duraciones y precios
+- Tokens únicos para activar suscripciones
+- Monitoreo de tiempo restante y notificaciones de expiración
+
+### Publicaciones en Canales
+- Envío de mensajes con texto, imágenes, videos y documentos
+- Protección de contenido para evitar reenvíos
+- Botones interactivos
+- Programación de publicaciones
+
+### Panel Administrativo
+- Gestión completa de usuarios y suscripciones
+- Configuración de canales
+- Estadísticas
+
+## Instalación
+
+1. Clona este repositorio:
+```bash
+git clone https://github.com/tu-usuario/telegram-subscription-bot.git
+cd telegram-subscription-bot

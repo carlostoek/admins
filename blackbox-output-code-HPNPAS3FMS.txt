@@ -1,0 +1,15 @@
+# Configuración del bot
+BOT_TOKEN=your_bot_token_here
+ADMIN_IDS=123456789,987654321
+
+# Configuración de canales
+FREE_CHANNEL_ID=-100your_free_channel_id
+VIP_CHANNEL_ID=-100your_vip_channel_id
+
+# Configuración de acceso al canal gratuito (True/False)
+FREE_CHANNEL_OPEN_ACCESS=True
+
+# Base de datos
+DATABASE_URL=sqlite:///bot_database.sqlite3
+# Para PostgreSQL:
+# DATABASE_URL=postgresql+asyncpg://username:password@localhost/database_name
