@@ -172,7 +172,6 @@ async def help_command(callback: CallbackQuery):
         "ℹ️ Ayuda del Bot\n\n"
         "Este bot te permite acceder a diferentes canales según tu nivel de suscripción.\n\n"
         "Comandos disponibles:\n"
-        "/start - Iniciar el bot\n"
-        "/menu - Mostrar el menú principal\n\n"
+        "/start - Iniciar el bot\n\n"
         "Si tienes problemas o preguntas, contacta al administrador."
     )

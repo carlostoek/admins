@@ -1,4 +1,4 @@
-
+# telegram_subscription_bot/config.py
 from dotenv import load_dotenv
 import os
 
@@ -20,3 +20,4 @@ DEFAULT_CANCELLATION_MESSAGE = "Tu suscripción VIP ha sido cancelada."
 
 # Configuración del acceso libre al canal gratuito (True/False)
 FREE_CHANNEL_OPEN_ACCESS = os.getenv("FREE_CHANNEL_OPEN_ACCESS", "True").lower() == "true"
+
